@@ -1,6 +1,6 @@
 # accentureCourseDataAnalytics
 This course covered the following skills:
-- Project Understanding
-- Data Cleaning & Modeling
-- Data Visualization & Storytelling
+- Project and Data Understanding 
+- Data Cleaning & Modeling (in Excel)
+- Data Visualization & Storytelling (using PowerPoint and Excel visuals)
 - Present to the Client
